@@ -1,9 +1,9 @@
 Problema de Optimización
-Una empresa produce n productos químico diferentes mezclando varias materias primas. Cada producto
+Una empresa produce n productos químico diferentes mezclando varias materias primas. Cada producto
 químico se vende a un precio específico. El objetivo
-de la empresa es determinar cu´antas unidades de cada
+de la empresa es determinar cuántas unidades de cada
 producto químico se deben producir para maximizar
-los ingresos totales, teniendo en cuenta la disponibilidad de las materias primas. Es importante aclarar que
+los ingresos totales, teniendo en cuenta la disponibilidad de las materias primas. Es importante aclarar que
 cada producto químico requiere una cantidad diferente
 de materias primas para su producción.
 Cada producto químico se caracteriza por su precio de
