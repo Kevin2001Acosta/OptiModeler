@@ -19,3 +19,4 @@ Maximizar las ganancias por venta de productos
 químico (Z).
 El programa Python toma ciertos los datos necesarios del problema, (N,M, disponibilidad de cada material, etc) separados por espacios entre lineas, y retorna código minizinc,
 que puede ser pegado y ejecutado en minizinc, sin ningún cambio.
+No necesita la instalación de ninguna dependencia especial, usa tkinter que viene instalado por defecto.
